@@ -2,6 +2,8 @@
 
 Simple CRUD app for Rails syntax familiarization
 
+https://guides.rubyonrails.org/getting_started.html#creating-products
+
 Things you may want to cover:
 
 - Ruby version
